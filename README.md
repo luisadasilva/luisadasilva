@@ -52,7 +52,7 @@ Uma combinação entre **programação, tecnologia e ciência** utilizando a lin
 
 ### Database & Version Control
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,git,github&theme=dark"/>
 
 <br><br>
 
@@ -80,6 +80,7 @@ Uma combinação entre **programação, tecnologia e ciência** utilizando a lin
 Pesquisa relacionada à dinâmica de partículas em anéis ao redor de pequenos corpos do Sistema Solar, considerando a influência da pressão de radiação solar.
 
 **Área:** Ciências Exatas e da Terra
+
 **Foco:** Física Astronômica
 
 </td>
