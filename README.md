@@ -24,11 +24,11 @@
 
 ---
 
-# `> whoami`
+# `> about me`
 
 Olá! Eu sou **Luisa da Silva**.
 
-Sou **Dev Full-Stack**, com interesse em desenvolvimento de software e tecnologia.
+Sou **estudante de informática no CTI - Unesp (Bauru)**.
 
 Atualmente, estudo e desenvolvo projetos utilizando diferentes linguagens e ferramentas, explorando tanto desenvolvimento quanto áreas relacionadas à ciência.
 
@@ -36,7 +36,7 @@ Também desenvolvo uma pesquisa científica intitulada:
 
 ### `Anéis em torno de pequenos corpos: limite de tamanho de partículas sob pressão de radiação solar`
 
-Uma combinação entre **programação, tecnologia e ciência** que representa alguns dos meus principais interesses.
+Uma combinação entre **programação, tecnologia e ciência** utilizando a linguagem de programação C e que representa alguns dos meus principais interesses.
 
 ---
 
