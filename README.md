@@ -21,7 +21,6 @@ Sou **estudante de informática no CTI - Unesp (Bauru)**.
 Atualmente, estudo e desenvolvo projetos utilizando diferentes linguagens e ferramentas, explorando tanto desenvolvimento quanto áreas relacionadas à ciência.
 
 Também desenvolvo uma pesquisa de iniciação científica (PIBIC JR).
----
 
 # `> technologies`
 
