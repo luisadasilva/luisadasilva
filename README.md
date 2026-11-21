@@ -69,7 +69,7 @@ Pesquisa relacionada à dinâmica de partículas em anéis ao redor de pequenos 
 
 **Monitor:** Lucas Turner
 
-**Linguagem utilizada:** C
+**Linguagem utilizada:** C e Python
 
 </td>
 
