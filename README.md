@@ -40,7 +40,7 @@ Também desenvolvo uma pesquisa de iniciação científica (PIBIC JR).
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,netbeans&theme=dark"/>
 
 </div>
 
